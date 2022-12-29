@@ -1,5 +1,5 @@
 # Unioner och bitfält i C för mikrodator ATmega328P
-Användning av unioner för läsning och skrivning till olika I/O-register via bifält.
+Användning av unioner för läsning och skrivning till olika I/O-register för mikrodator ATmega328P via bitfält.
 
 Filen "header.h" innehåller deklaration av unionen byte samt strukten bits, som möjliggör att en 
 innehållet i ett givet I/O-register kan erhållas som en enda enhet eller bitvis via pekare.

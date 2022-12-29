@@ -11,3 +11,5 @@ Filen "union_demo.c" utgör en grundläggande demonstration hur unioner fungerar
 som möjliggör att ett givet objekt kan lagra ett tal antingen som ett heltal eller flyttal. Samtidigt visas
 att unionens storlek är samma som den största medlemmen i unionen, vilket i detta fall är 8 byte (på grund
 av att ett flyttal av datatypen double upptar 8 byte när en x64-processor används).
+
+Se video tutorial här: https://youtu.be/LfuropmQhq8
